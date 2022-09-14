@@ -24,7 +24,11 @@ Procedure:
 ![image](https://user-images.githubusercontent.com/10443670/190257404-2c3e8014-872d-47a6-8585-18800d492fe8.png)
 
 3)There will be two playes. The first player has to put X and the other has to put O. This can be any symbol and these x and o s are for example.
+
 4)The first person has to put X in one of the boxes he likes.
+
 6)Next is the chance of the second person.
+
 7) He has to put o in one of the boxes so that to prevent the first person completes all the three boxes horizontally or vertically or diagonally.
+
 8)The play continues until one person completes and that is the winning point.
