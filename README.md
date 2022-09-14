@@ -29,6 +29,6 @@ Procedure:
 
 6)Next is the chance of the second person.
 
-7) He has to put o in one of the boxes so that to prevent the first person completes all the three boxes horizontally or vertically or diagonally.
+7)He has to put o in one of the boxes so that to prevent the first person completes all the three boxes horizontally or vertically or diagonally.
 
 8)The play continues until one person completes and that is the winning point.
