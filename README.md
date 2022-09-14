@@ -1,19 +1,19 @@
 # Tic-Tac-toe
-Introduction:
+**Introduction:**
 This is a game that 2 people can play with ease. It has 9 squares spreaded in 3 rows and columns. The main win of the game is when a person completes all the three squares
 in a row or column or diaganally complete.
 
-Purpose:
+**Purpose:**
 Purose of this document is to test the creation of document.
 
-Scope:
+**Scope:**
 The scope of this document is to for all the players who would like to know about the Tic-Tak-Toe game.
 
-Overview:
+**Overview:**
 The game is simple. There will be two players. One player will put his X on any of the squares he likes. Next the other persons chance. He has to put his option.
 He has to use his skill so that the other person cannot complete all the three rows or columns or diagonally. Who ever completes first wins the game.
 
-Procedure:
+**Procedure:**
 
 
 ![image](https://user-images.githubusercontent.com/10443670/190256888-1dd4bfbd-db7b-466f-b677-6e1e8e8d4b39.png)
